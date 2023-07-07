@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\Andrei\Desktop\LAB3\LAB3\Source.cpp(106,6): warning C4101: digit: неиспользованная локальная переменная
+C:\Users\Andrei\Desktop\LAB3\LAB3\Source.cpp(104,25): warning C4101: phone: неиспользованная локальная переменная
+C:\Users\Andrei\Desktop\LAB3\LAB3\Source.cpp(276,10): warning C4129: /: неизвестная escape-последовательность
+C:\Users\Andrei\Desktop\LAB3\LAB3\Source.cpp(382,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Andrei\Desktop\LAB3\LAB3\Source.cpp(396,19): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\Andrei\Desktop\LAB3\LAB3\Source.cpp(396,19): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+C:\Users\Andrei\Desktop\LAB3\LAB3\Source.cpp(411,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Andrei\Desktop\LAB3\LAB3\Source.cpp(447,28): warning C4101: end: неиспользованная локальная переменная
+C:\Users\Andrei\Desktop\LAB3\LAB3\Source.cpp(448,6): warning C4101: digit: неиспользованная локальная переменная
+C:\Users\Andrei\Desktop\LAB3\LAB3\Source.cpp(486,3): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "unsigned __int64"
+C:\Users\Andrei\Desktop\LAB3\LAB3\Source.cpp(486,3): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\Andrei\Desktop\LAB3\LAB3\Source.cpp(486,3): message : рекомендуется использовать "%I64d" в строке форматирования
+C:\Users\Andrei\Desktop\LAB3\LAB3\Source.cpp(553,3): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "unsigned __int64"
+C:\Users\Andrei\Desktop\LAB3\LAB3\Source.cpp(553,3): message : рекомендуется использовать "%lld" в строке форматирования
+C:\Users\Andrei\Desktop\LAB3\LAB3\Source.cpp(553,3): message : рекомендуется использовать "%I64d" в строке форматирования
+  LAB3.vcxproj -> C:\Users\Andrei\Desktop\LAB3\Debug\LAB3.exe
